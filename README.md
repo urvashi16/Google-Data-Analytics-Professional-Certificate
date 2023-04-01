@@ -1,5 +1,5 @@
 # Google-Data-Analytics-Professional-Certificate
-Notes for the course on ***Data Analytics by Google in Coursera***. [Course Link](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite-paid-essence-in-dr-q42021-sem-bkws-exa-txt-course-1-analytics-certificate-data_analytics)
+Notes for the course of ***Data Analytics by Google on Coursera***. [Course Link](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite-paid-essence-in-dr-q42021-sem-bkws-exa-txt-course-1-analytics-certificate-data_analytics)
 
 #  About the Data Analytics Professional Certificate-
 The Professional Certificate is made up of eight courses in total. One of which is a Capstone Project. Each course is arranged into four to five weeks, with graded weekly quizzes and a course quiz at the end. Just before the weekly quizzes, a glossary of the terms acquired over the week is provided to the learners. Let’s take a look at what each course enlightens us with and what I loved about them.
